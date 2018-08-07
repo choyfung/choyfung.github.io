@@ -4,7 +4,8 @@ body
 }
 
 p
-{ line-height: 1.5em;}
+{ font: arial, sans-serif;
+  line-height: 1.5em;}
 
 a
 { outline: none;
