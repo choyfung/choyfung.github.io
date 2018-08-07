@@ -15,7 +15,7 @@ a
 #banner
 { 
   display: block;
-  width: 50%;
+  width: 100%;
   background: #F2F2F2;
   padding: 10px 10px 10px 10px;
 }
