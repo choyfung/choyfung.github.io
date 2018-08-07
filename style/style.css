@@ -12,11 +12,12 @@ a
   text-decoration: none;
   color: #00BFFF;}
 
+/* menu block */
 #banner
 { 
   display: block;
-  width: 100%;
-  background: #CFCFCF;
+  width: 100%; /* menu block width */
+  background: #CFCFCF; /* menu block background color */
   padding: 10px 0px 10px 0px;
   margin: 0 0 0 0px;
 }
