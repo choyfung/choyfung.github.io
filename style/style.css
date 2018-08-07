@@ -57,7 +57,7 @@ a
 #banner_content img
 { 
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: left;
   width: 150px;
   border-radius: 2%;
   box-shadow: 0px 0px 15px #444;
@@ -88,7 +88,7 @@ a
   height: 20px;
   padding: 0px 0 5px 0;
   text-align: center; 
-  background: #666;
+  background: #555;
   color: #A8AA94;}
 
 .pub
