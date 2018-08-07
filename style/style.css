@@ -84,11 +84,11 @@ a
 #footer
 { width: 100%;
   font-family: 'trebuchet ms', sans-serif;
-  font-size: 100%;
+  font-size: 80%;
   height: 20px;
   padding: 0px 0 5px 0;
   text-align: center; 
-  background: #F5F5F5;
+  background: #C0C0C0;
   color: #A8AA94;}
 
 .pub
