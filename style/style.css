@@ -38,7 +38,7 @@ a
 #banner_text 
 { 
   display: inline-block;
-  background: #00FF00;
+  /* background: #00FF00; */
   vertical-align: middle;
   margin-left: 2%; /* title of homepage block to left */
   width: 50%; /* width of the homepage block */
