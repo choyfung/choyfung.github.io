@@ -52,7 +52,7 @@ a
   background: #00FF00;
   vertical-align: middle;
   margin-right: 2%; /* title of homepage block to left */
-  width: 20%; /* width of the homepage block */
+  width: 15%; /* width of the homepage block */
   text-align: left; /* align style of the text in the homepage block */
 }
 
@@ -73,8 +73,8 @@ a
   padding: 4px 0 0 0;
   color: #eee;}
 
-#banner_about_me h3
-{ font: normal 100% 'century gothic', arial, sans-serif;
+#banner_about_me h1
+{ font: normal 150% 'century gothic', arial, sans-serif;
   padding: 4px 0 0 0;
   color: #F4F4F6;}
   
