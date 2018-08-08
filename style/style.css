@@ -53,7 +53,7 @@ a
   vertical-align: middle;
   margin-right: 2%; /* title of homepage block to left */
   width: 15%; /* width of the homepage block */
-  text-align: left; /* align style of the text in the homepage block */
+  text-align: right; /* align style of the text in the homepage block */
 }
 
 #banner_text h1
