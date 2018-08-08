@@ -19,7 +19,7 @@ a
   width: 100%; /* the width of menu block */
   height: 100px; /* the height of menu block */
   border: 0px; /* the width of border is 0 */
-  background: #CFCFCF; /* menu block background color */
+  background: #CFCFCF; /* background color of the menu block */
   padding: 10px 0px 10px 0px;
   margin: 0 0 0 0px;
 }
