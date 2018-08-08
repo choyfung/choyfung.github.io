@@ -51,8 +51,8 @@ a
   display: inline-block;
   background: #00FF00;
   vertical-align: middle;
-  margin-right: 0; /* title of homepage block to left */
-  width: 50%; /* width of the homepage block */
+  margin-right: 2%; /* title of homepage block to left */
+  width: 46%; /* width of the homepage block */
   text-align: right; /* align style of the text in the homepage block */
 }
 
