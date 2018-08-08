@@ -32,15 +32,15 @@ a
   margin: 20px 0 0 0px;
 }
 
-/* title of homepage text block */
+/* homepage title block */
 #banner_text 
 { 
   display: inline-block;
   background: #00FF00;
   vertical-align: middle;
-  margin-left: 10%;
-  width: 60%;
-  text-align: center;
+  margin-left: 40%; /* title of homepage block to left */
+  width: 30%; /* width of the homepage block */
+  text-align: left; /* align style of the text in the homepage block */
 }
 
 #banner_text h1
