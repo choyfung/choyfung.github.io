@@ -16,7 +16,8 @@ a
 #banner
 { 
   display: block;
-  width: 100%; /* menu block width */
+  width: 100%; /* the width of menu block */
+  height: 100px; /* the height of menu block */
   background: #CFCFCF; /* menu block background color */
   padding: 10px 0px 10px 0px;
   margin: 0 0 0 0px;
