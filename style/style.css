@@ -17,7 +17,7 @@ a
 { 
   display: block;
   width: 100%; /* the width of menu block */
-  height: 60px; /* the height of menu block */
+  height: 0px; /* the height of menu block */
   border: 0px; /* the width of border is 0 */
   background: #1B4794; /* background color of the menu block */
   padding: 10px 0px 10px 0px;
@@ -46,7 +46,7 @@ a
 }
 
 #banner_text h1
-{ font: normal 240% 'century gothic', arial, sans-serif;
+{ font: normal 180% 'century gothic', arial, sans-serif;
   border-bottom: 0;
   text-transform: none;
   margin: 0 0 0 20px;
