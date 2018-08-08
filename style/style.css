@@ -45,6 +45,17 @@ a
   text-align: left; /* align style of the text in the homepage block */
 }
 
+/* About me block */
+#banner_about_me 
+{ 
+  display: inline-block;
+  background: #00FF00;
+  vertical-align: middle;
+  margin-right: 2%; /* title of homepage block to left */
+  width: 20%; /* width of the homepage block */
+  text-align: left; /* align style of the text in the homepage block */
+}
+
 #banner_text h1
 { font: normal 180% 'century gothic', arial, sans-serif;
   border-bottom: 0;
@@ -61,6 +72,11 @@ a
 { font: normal 100% 'century gothic', arial, sans-serif;
   padding: 4px 0 0 0;
   color: #eee;}
+
+#banner_about_me h3
+{ font: normal 100% 'century gothic', arial, sans-serif;
+  padding: 4px 0 0 0;
+  color: #eeee;}
   
 #banner_content img
 { 
