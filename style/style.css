@@ -51,7 +51,7 @@ a
   display: inline-block;
   background: #00FF00;
   vertical-align: middle;
-  margin-right: 2%; /* title of homepage block to left */
+  margin-right: 0%; /* title of homepage block to left */
   width: 15%; /* width of the homepage block */
   text-align: right; /* align style of the text in the homepage block */
 }
@@ -75,6 +75,7 @@ a
 
 #banner_about_me h1
 { font: normal 120% 'century gothic', arial, sans-serif;
+  margin: 0 0 0 10px;
   padding: 4px 0 0 0;
   color: #F4F4F6;}
   
