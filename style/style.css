@@ -49,7 +49,7 @@ a
 #banner_about_me 
 { 
   display: inline-block;
-  float:right
+  float:right;
   background: #00FF00;
   vertical-align: middle;
   margin-right: 2%; /* title of homepage block to left */
