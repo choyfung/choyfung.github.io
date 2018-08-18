@@ -211,9 +211,11 @@ a
 .contents_bio
 {
   display: block;
-  border-style: solid;
+
+	
+  /*border-style: solid;
   border-width: 1px;
-  border-color: red;
+  border-color: red;*/
 }
 
 /* Bio image */
@@ -235,25 +237,27 @@ a
   display: inline-block;
   vertical-align: middle;
 	
-  border-style: solid;
+  /*border-style: solid;
   border-width: 1px;
-  border-color: blue;
+  border-color: blue;*/
 	
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
   margin-left: 15px;
 	
-  width: 71%;
+  width: 70%;
 }
 
 /* Bio introduction head h1 */
 .contents_bio_intro h1
 { 	
   font: normal 140% 'century gothic', arial;
-  border-style: solid;
+	
+  /*border-style: solid;
   border-width: 1px;
-  border-color: green;
+  border-color: green;*/
+	
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
