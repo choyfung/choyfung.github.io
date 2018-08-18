@@ -53,6 +53,9 @@ a
 #banner_text 
 { 
   display: inline-block;
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
   background: #00FF00;
   vertical-align: middle;
   margin-left: 2%; /* title of homepage block to left */
