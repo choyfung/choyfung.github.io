@@ -1,63 +1,203 @@
 body
-{ font: normal 12pt 'trebuchet ms', arial, sans-serif;
+{ font-style: normal;
+  font-size: 12pt;
+  font-family: arial, sans-serif;
+  margin-top: 0px;
+  margin-right: 8px;
+  margin-bottom: 0px;
+  margin-left: 0px;
   color: #555;
 }
 
 p
-{ line-height: 1.7em;}
+{ font: 'trebuchet ms', arial, sans-serif;
+  line-height: 1.5em;}
 
 a
 { outline: none;
   text-decoration: none;
-  color: #00CED1;}
+  color: #00BFFF;}
 
 #banner
 { 
   display: block;
-  width: 100%;
-  background: #555;
-  padding: 10px 0 10px 0;
+  width: 100%; 
+
+  /*border-style: solid;*/
+  /*border-width: 5px;*/
+  /*border-color: red;*/
+  
+  background: #1B4794; 
+ 
+  padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 0px;
+  
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
 }
 
 #banner_content
 {
   display: block;
   width: 80%;
+  background: #0000FF;
   min-width: 500px;
-  max-width: 800px;
-  margin: 0 auto;
+  max-width: 500px;
+  margin: 20px 0 0 0px;
 }
 
+/* Title tag */
 #banner_text 
 { 
   display: inline-block;
+  
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+  
+  background: #00FF00;
+  
   vertical-align: middle;
-  margin-right: 5%;
-  width: 60%;
-  text-align: center;
+  
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 2%;
+  
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  
+  width: 45%; 
+  text-align: left; 
+}
+
+/* Home tag */
+#banner_home 
+{ 
+  display: inline-block;
+  
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+  
+  background: #00FF00;
+  
+  vertical-align: middle;
+  
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 800px;
+  
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  
+  width: 15%; 
+  text-align: center; 
+}
+
+/* Researh tag */
+#banner_research 
+{ 
+  display: inline-block;
+  
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+  
+  background: #00FF00;
+  
+  vertical-align: middle;
+  
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 200px;
+  
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  
+  width: 15%; 
+  text-align: center; 
+}
+
+/* About me tag */
+#banner_about_me 
+{ 
+  display: inline-block;
+  
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+  
+  background: #00FF00;
+  
+  vertical-align: middle;
+  
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 20px;
+  
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+  
+  width: 15% 
+  text-align: center; 
 }
 
 #banner_text h1
-{ font: normal 240% 'century gothic', arial, sans-serif;
+{ font: normal 180% 'century gothic', arial, sans-serif;
   border-bottom: 0;
   text-transform: none;
-  margin: 0 0 0 9px;
-  color: #fff;}
+  margin: 0 0 0 20px;
+  color: #F4F4F6;}
 
 #banner_text h2
 { font: normal 150% 'century gothic', arial, sans-serif;
   padding: 4px 0 0 0;
-  color: #00CED1;}
+  color: #C5C6C7;}
   
 #banner_text h3
 { font: normal 100% 'century gothic', arial, sans-serif;
   padding: 4px 0 0 0;
   color: #eee;}
+
+#banner_home h1
+ {
+  font: normal 120% 'century gothic', arial, sans-serif;
+  margin: 0 0 0 0px;
+  color: #F4F4F6;
+ }
+  
+#banner_research h1
+ {
+  font: normal 120% 'century gothic', arial, sans-serif;
+  margin: 0 0 0 0px;
+  color: #F4F4F6;
+ }
+
+#banner_about_me h1
+{ font: normal 120% 'century gothic', arial, sans-serif;
+  margin: 0 0 0 0px;
+  color: #F4F4F6;}
   
 #banner_content img
 { 
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: left;
   width: 150px;
   border-radius: 2%;
   box-shadow: 0px 0px 15px #444;
@@ -78,17 +218,17 @@ a
   margin: 20px 0 20px 0;
   padding: 15px 0 5px 0;
   color: #000;
-  font-style: oblique;
+  font-style: bold;
 }
 
 #footer
 { width: 100%;
   font-family: 'trebuchet ms', sans-serif;
-  font-size: 100%;
+  font-size: 80%;
   height: 20px;
   padding: 0px 0 5px 0;
   text-align: center; 
-  background: #666;
+  background: #C0C0C0;
   color: #A8AA94;}
 
 .pub
