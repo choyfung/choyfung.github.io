@@ -222,6 +222,22 @@ a
   margin-bottom: 0px;
   margin-left: 0px;
 }
+
+#contents_bio h1
+{ 	
+  font: normal 170% 'century gothic', arial;
+  margin: 20px 0 20px 0;
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;	
+  padding-top: 15px;
+  padding-right: 0px;
+  padding-bottom: 15px;
+  padding-left: 0px;
+  color: #000;
+  font-style: bold;
+}
   
 #banner_content img
 { 
@@ -243,11 +259,9 @@ a
 } 
 
 #content h1
-{ font: normal 170% 'century gothic', arial;
-  margin: 20px 0 20px 0;
-  padding: 15px 0 5px 0;
-  color: #000;
-  font-style: bold;
+{ 
+	
+	
 }
 
 #footer
