@@ -23,6 +23,7 @@ a
   /* border: 10px; /* the width of border is 0 */
   border: 5px solid red;
   background: #1B4794; /* background color of the menu block */
+  background-color: gray;
   /*padding: 10px 0px 10px 0px;*/
   padding-top: 10px;
   padding-right: 0px;
