@@ -28,9 +28,9 @@ a
   background: #1B4794; /* background color of the menu block */
   background-color: gray;
   /*padding: 10px 0px 10px 0px;*/
-  padding-top: 0px;
+  padding-top: 10px;
   padding-right: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 10px;
   padding-left: 0px;
   /*margin: 0 0 0 0px;*/
   margin-top: 0px;
@@ -61,7 +61,7 @@ a
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
-  margin-left: 2px;
+  margin-left: 20px;
   padding-top: 0px;
   padding-right: 0px;
   padding-bottom: 0px;
