@@ -58,7 +58,11 @@ a
   border-color: red;
   background: #00FF00;
   vertical-align: middle;
-  margin-left: 2%; /* title of homepage block to left */
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 2px;
+  /*margin-left: 2%; /* title of homepage block to left */*/
   width: 35%; /* width of the homepage block */
   text-align: left; /* align style of the text in the homepage block */
 }
