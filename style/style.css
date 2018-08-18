@@ -167,7 +167,10 @@ a
   min-width: 500px;
   /*max-height: 500px;*/
   margin: 0 auto;
-  padding: 10px;
+  padding-top: 10px;
+  padding-right: 0px;
+  padding-bottom: 10px;
+  padding-left: 0px;
   text-align: justify;
 }
 
