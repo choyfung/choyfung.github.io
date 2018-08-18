@@ -159,14 +159,16 @@ a
 }
 
 /* Bio */
-#content_bio
+#contents
 {
   display: block;
-  width: 100%;
+  width: 80%;
   background: #0000FF;
   min-width: 500px;
   /*max-height: 500px;*/
-  margin: 5px 0 0 0px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: justify;
 }
 
 #banner_text h1
@@ -205,17 +207,18 @@ a
   margin: 0 0 0 0px;
   color: #F4F4F6;}
 
-#content_bio img
+#contents_bio img
 { 
   display: inline-block;
   vertical-align: middle;
-  width: 300px;
+  width: 350px;
+  height: 350px;
   border-radius: 2%;
   box-shadow: 0px 0px 0px 0px #400;
   margin-top: 0px;
   margin-right: 0px;
   margin-bottom: 0px;
-  margin-left: 100px;
+  margin-left: 0px;
 }
   
 #banner_content img
