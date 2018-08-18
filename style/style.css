@@ -158,6 +158,17 @@ a
   text-align: center; 
 }
 
+/* Bio */
+#content_bio
+{
+  display: block;
+  width: 100%;
+  background: #0000FF;
+  min-width: 500px;
+  /*max-height: 500px;*/
+  margin: 5px 0 0 0px;
+}
+
 #banner_text h1
 { font: normal 180% 'century gothic', arial, sans-serif;
   border-bottom: 0;
@@ -193,6 +204,15 @@ a
 { font: normal 120% 'century gothic', arial, sans-serif;
   margin: 0 0 0 0px;
   color: #F4F4F6;}
+
+#content_bio img
+{ 
+  display: inline-block;
+  vertical-align: left;
+  width: 200px;
+  border-radius: 2%;
+  box-shadow: 0px 0px 0px 0px #400;
+}
   
 #banner_content img
 { 
