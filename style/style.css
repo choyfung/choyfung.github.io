@@ -21,7 +21,10 @@ a
   width: 100%; /* the width of menu block */
   /* height: 0px; */ /* the height of menu block */
   /* border: 10px; /* the width of border is 0 */
-  border: 5px solid red;
+  /*border: 5px solid red;*/
+  border-style: solid;
+  border-width: 5px;
+  border-color: red;
   background: #1B4794; /* background color of the menu block */
   background-color: gray;
   /*padding: 10px 0px 10px 0px;*/
@@ -29,7 +32,11 @@ a
   padding-right: 0px;
   padding-bottom: 10px;
   padding-left: 0px;
-  margin: 0 0 0 0px;
+  /*margin: 0 0 0 0px;*/
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
 }
 
 #banner_content
