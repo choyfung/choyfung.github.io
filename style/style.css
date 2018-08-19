@@ -303,7 +303,7 @@ a
  
   border-bottom: solid;
   border-width: 1px;
-  border-color: gray;
+  border-color: red;
 	
   margin-top: 20px;
   margin-right: 0px;
@@ -312,10 +312,10 @@ a
 	
   padding-top: 15px;
   padding-right: 0px;
-  padding-bottom: 15px;
+  padding-bottom: 1px;
   padding-left: 0px;
 	
-  color: #000;
+  color: #595959;
 }
 
 h1.bottom_solid
