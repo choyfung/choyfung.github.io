@@ -207,7 +207,7 @@ a
 }
 
 /* Bio */
-#bio img
+.bio img
 {
   display: inline-block;
   vertical-align: middle;
@@ -219,7 +219,7 @@ a
 }
 
 /* Bio introduction */
-#bio_intro
+.bio_intro
 { 
   display: inline-block;
   vertical-align: middle;
@@ -237,7 +237,7 @@ a
 }
 
 /* Bio introduction head h1 */
-#bio_intro h1
+.bio_intro h1
 { 	
   font: normal 150% 'century gothic', arial;
 	
