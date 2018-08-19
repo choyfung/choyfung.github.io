@@ -307,7 +307,7 @@ a
 	
   margin-top: 20px;
   margin-right: 0px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   margin-left: 0px;
 	
   padding-top: 15px;
@@ -318,7 +318,23 @@ a
   color: #595959;
 }
 
-h1.bottom_solid
+/* News list */
+#ul.news 
+{
+  list-style-type: square;
+  
+  border-style: solid;
+  border-width: 1px;
+  border-color: red;
+  
+  list-style-position: outside;
+  
+  margin-top: 10px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+ }
+
 
 
 
