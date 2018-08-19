@@ -13,6 +13,15 @@ p
 { font: 'trebuchet ms', arial, sans-serif;
   line-height: 1.5em;}
 
+p.list_new
+{
+  font-size:10pt;
+  line-height:8pt;
+  font-style: bold;
+  color:#EE2C2C;
+}
+
+
 a
 { outline: none;
   text-decoration: none;
