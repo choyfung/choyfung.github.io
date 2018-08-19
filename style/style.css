@@ -191,7 +191,7 @@ a
   color: #F4F4F6;}
 
 /* Bio */
-#bio
+.bio
 {
   display: block;
   width: 80%;
