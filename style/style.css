@@ -292,7 +292,9 @@ a
 /* Contents h1 header */
 #contents h1
 {
-  font: normal 170% 'century gothic', arial;
+  font-style: bold;
+  font-size: 70%;
+  font-family: 'century gothic', arial, sans-serif;
 	
   border-style: solid;
   border-width: 2px;
@@ -309,8 +311,6 @@ a
   padding-left: 0px;
 	
   color: #000;
-	
-  font-style: bold;
 }
 
 
