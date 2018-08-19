@@ -207,6 +207,30 @@ a
   text-align: justify;
 }
 
+/* Contents h1 header */
+#contents h1
+{
+  font: normal 150% 'century gothic', arial;
+	
+  border-style: solid;
+  border-width: 2px;
+  border-color: red;
+	
+  margin-top: 20px;
+  margin-right: 0px;
+  margin-bottom: 20px;
+  margin-left: 0px;
+	
+  padding-top: 15px;
+  padding-right: 0px;
+  padding-bottom: 15px;
+  padding-left: 0px;
+	
+  color: #000;
+	
+  font-style: oblique;
+}
+
 /* Bio */
 .contents_bio
 {
@@ -272,7 +296,7 @@ a
   color: #555;
   font-style: oblique;
 }
-  
+
 #banner_content img
 { 
   display: inline-block;
