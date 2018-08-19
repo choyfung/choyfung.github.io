@@ -221,7 +221,7 @@ a
   border-color: red;*/
 }
 
-/* Bio */
+/* Bio image */
 .bio_img img
 {
   display: inline-block;
@@ -251,7 +251,7 @@ a
   width: 70%;
 }
 
-/* Bio introduction head h1 */
+/* Bio introduction h1 */
 .bio_intro h1
 { 	
   font: normal 150% 'century gothic', arial;
@@ -292,7 +292,7 @@ a
 /* Contents h1 header */
 #contents h1
 {
-  font: normal 150% 'century gothic', arial;
+  font: normal 170% 'century gothic', arial;
 	
   border-style: solid;
   border-width: 2px;
@@ -313,71 +313,7 @@ a
   font-style: bold;
 }
 
-/* Bio */
-.contents_bio
-{
-  display: block;
-  
-  margin-top: 20px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-	
-  /*border-style: solid;
-  border-width: 1px;
-  border-color: red;*/
-}
 
-/* Bio image */
-.contents_bio img
-{ 
-  display: inline-block;
-  vertical-align: middle;
-  width: 26%;
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;
-}
-
-/* Bio introduction */
-.contents_bio_intro
-{ 
-  display: inline-block;
-  vertical-align: middle;
-	
-  /*border-style: solid;
-  border-width: 1px;
-  border-color: blue;*/
-	
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 15px;
-	
-  width: 70%;
-}
-
-/* Bio introduction head h1 */
-.contents_bio_intro h1
-{ 	
-  font: normal 150% 'century gothic', arial;
-	
-  /*border-style: solid;
-  border-width: 1px;
-  border-color: green;*/
-	
-  margin-top: 0px;
-  margin-right: 0px;
-  margin-bottom: 0px;
-  margin-left: 0px;	
-  padding-top: 10px;
-  padding-right: 0px;
-  padding-bottom: 15px;
-  padding-left: 0px;
-  color: #555;
-  font-style: normal;
-}
 
 #banner_content img
 { 
