@@ -254,7 +254,10 @@ a
 /* Bio introduction h1 */
 .bio_intro h1
 { 	
-  font: normal 170% 'century gothic', arial;
+  /*font: normal 170% 'century gothic', arial;*/
+  font-style: bold;
+  font-size: 150%;
+  font-family: 'century gothic', arial, sans-serif;
 	
   /*border-style: solid;
   border-width: 1px;
@@ -293,7 +296,7 @@ a
 #contents h1
 {
   font-style: bold;
-  font-size: 70%;
+  font-size: 150%;
   font-family: 'century gothic', arial, sans-serif;
 	
   border-style: solid;
