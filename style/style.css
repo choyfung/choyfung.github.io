@@ -29,21 +29,21 @@ a
 }
 
 /* Navigation bar */
-ul {
+ul.nav_bar {
     list-style-type: none;
     border-bottom: 1px solid red;
     margin: 0;
     padding: 0;
     overflow: hidden;
     /*background-color: #f8f8f8;*/
-    background-color: #1C86EE;
+    background-color: #2950b6;
 }
 
 li {
     float: right;
 }
 
-li a {
+li.nav_bar {
     display: block;
     color: #ffffff;
     text-align: center;
@@ -51,7 +51,7 @@ li a {
     text-decoration: none;
 }
 
-li a:hover {
+li.nav_bar:hover {
     background-color: #e7e7e7;
 }
 
