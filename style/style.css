@@ -21,12 +21,37 @@ p.list_new
   color:#EE2C2C;
 }
 
-
 a
 { outline: none;
   text-decoration: none;
   /*color: #00BFFF;*/
-  color: #4e90f7;}
+  color: #4e90f7;
+}
+
+/* Navigation bar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #811;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #777;
+}
 
 
 #banner
