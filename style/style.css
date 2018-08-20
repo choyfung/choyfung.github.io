@@ -34,7 +34,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #f8f8f8;
+    /*background-color: #f8f8f8;*/
+    background-color: #ea46ad;
 }
 
 li {
