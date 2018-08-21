@@ -38,6 +38,7 @@ a.nav_bar {
 a.nav_bar_name {
   font-size: 20px;
   font-weight: bold;
+  color: #ffffff;
 }
 
 /* Navigation bar */
@@ -45,7 +46,7 @@ ul.nav_bar {
     list-style-type: none;
     /*border-bottom: 1px solid red;*/
     margin: 0;
-    padding: -10px;
+    padding: 0;
     overflow: hidden;
     /*background-color: #f8f8f8;*/
     background-color: #2950b6;
