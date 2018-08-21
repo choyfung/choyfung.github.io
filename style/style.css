@@ -375,9 +375,10 @@ li.nav_bar_li_name:hover {
   border-width: 2px;
   border-color: red;*/
  
-  border-bottom: solid;
-  border-width: 1px;
-  border-color: #e7e7e7;
+  border-left: solid;
+  border-width: 3px;
+  /*border-color: #e7e7e7;*/
+  border-color: red;
 	
   margin-top: 20px;
   margin-right: 0px;
