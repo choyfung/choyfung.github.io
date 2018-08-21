@@ -43,9 +43,9 @@ a.nav_bar_name {
 /* Navigation bar */
 ul.nav_bar {
     list-style-type: none;
-    border-bottom: 1px solid red;
+    /*border-bottom: 1px solid red;*/
     margin: 0;
-    padding: 0;
+    padding: -10px;
     overflow: hidden;
     /*background-color: #f8f8f8;*/
     background-color: #2950b6;
