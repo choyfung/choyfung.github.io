@@ -368,7 +368,7 @@ li.nav_bar_li_name:hover {
 #contents h1
 {
   font-style: bold;
-  font-size: 160%;
+  font-size: 140%;
   font-family: 'century gothic', arial, sans-serif;
 	
   /*border-style: solid;
@@ -387,10 +387,10 @@ li.nav_bar_li_name:hover {
   margin-bottom: 20px;
   margin-left: 0px;
 	
-  padding-top: 5px;
-  padding-right: 5px;
-  padding-bottom: 5px;
-  padding-left: 7px;
+  padding-top: 3px;
+  padding-right: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
 	
   color: #595959;
 }
