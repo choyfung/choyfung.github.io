@@ -45,7 +45,7 @@ ul.nav_bar {
     background-color: #2950b6;
 }
 
-li nav_bar_li {
+li.nav_bar_li {
     display: block;
     color: #ffffff;
     text-align: center;
@@ -53,7 +53,7 @@ li nav_bar_li {
     text-decoration: none;
 }
 
-li nav_bar_li:hover {
+li.nav_bar_li:hover {
     background-color: #222e8e;
 }
 
