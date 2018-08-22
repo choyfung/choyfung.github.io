@@ -108,23 +108,26 @@ margin-left: 8px;
 
 border: 1px solid #ccc;
 /*float: left;*/
-width: 150px;
+/*width: 150px;*/
 }
 
 .gallery:hover{
 border: 1px solid #777;
 }
+
+.gallery img{
+display: inline-block;
+width: 30%;
+height: auto;
+}
+
 .gallery-text{
 display: inline-block;
 padding-top: 6px;
 text-align: center;
 }
 
-.gallery img{
-display: inline-block;
-width: 100%;
-height: auto;
-}
+
 
 #banner
 { 
