@@ -124,6 +124,8 @@ border: 1px solid #777;
 .gallery img{
 display: inline-block;
 
+float: left;
+
 width: 30%;
 height: auto;
 }
