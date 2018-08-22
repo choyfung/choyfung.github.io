@@ -94,7 +94,7 @@ li.nav_bar_li_name:hover {
 }
 */
 
-div.gallery{
+.gallery{
 display: block;
 margin-top: 5px;
 margin-right: 8px;
@@ -106,18 +106,19 @@ float: left;
 width: 150px;
 }
 
-div.gallery:hover{
+.gallery:hover{
 border: 1px solid #777;
 }
-
-div.gallery img{
-width: 100%;
-height: auto;
+.gallery-text{
+display: inline-block;
+padding-top: 6px;
+text-align: center;
 }
 
-div.desc{
-padding-top: 15px;
-text-align: center;
+.gallery img{
+display: inline-block;
+width: 100%;
+height: auto;
 }
 
 #banner
