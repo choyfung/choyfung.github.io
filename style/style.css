@@ -117,6 +117,7 @@ border: 1px solid #777;
 
 .gallery img{
 display: inline-block;
+vertical-align: middle;
 width: 30%;
 height: auto;
 }
