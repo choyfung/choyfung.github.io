@@ -96,6 +96,8 @@ li.nav_bar_li_name:hover {
 
 .gallery{
 display: block;
+	
+vertical-align: middle;
 
 border-style: solid;
 border-width: 1px;
@@ -117,7 +119,7 @@ border: 1px solid #777;
 
 .gallery img{
 display: inline-block;
-vertical-align: middle;
+
 width: 30%;
 height: auto;
 }
