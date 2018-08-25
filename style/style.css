@@ -117,10 +117,6 @@ min-width: 500px;
 max-width: 900px;
 }
 
-.gallery:hover{
-border: 1px solid #777;
-}
-
 .gallery img{
 display: inline-block;
 	
@@ -135,6 +131,11 @@ margin-left: 8px;
 
 width: 25%;
 height: 150px;
+}
+
+.gallery:hover image{
+border: 1px solid #777;
+opacity: 0.8;
 }
 
 .gallery-text{
