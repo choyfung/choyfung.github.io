@@ -555,11 +555,17 @@ text-align: center;
 { width: 100%;
   font-family: arial, sans-serif;
   font-size: 60%;
-  height: 20px;
+	
+  border-top: solid;
+  border-width: 1px;
+  /*border-color: #e7e7e7;*/
+  border-color: #555;
+	
+  height: 15px;
   padding: 3px 0px 3px 0;
   text-align: center; 
-  background: #2950b6;
-  color: #ffffff;}
+  /*background: #2950b6;*/
+  color: #555;}
 
 .pub
 {
