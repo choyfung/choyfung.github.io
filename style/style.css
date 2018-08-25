@@ -125,12 +125,12 @@ border-width: 1px;
 border-color: green;
 
 margin-top: 5px;
-margin-right: 0px;
+margin-right: 10px;
 margin-bottom: 5px;
-margin-left: 10px;
+margin-left: 20px;
 
 width: 30%;
-height: 180px;
+height: 200px;
 }
 
 /*.gallery:hover image{
