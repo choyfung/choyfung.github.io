@@ -21,6 +21,15 @@ p.list_new
   color:#EE2C2C;
 }
 
+p.gallery
+{
+  font-size:10pt;
+  line-height:8pt;
+  font-style: bold;
+  color:#EE2C2C;
+  margin: 0px 0px;
+}
+
 a
 { outline: none;
   text-decoration: none;
@@ -134,7 +143,7 @@ margin-left: 55px;*/
 margin-top: 5px;
 margin-right: 6%;
 margin-bottom: 5px;
-margin-left: 6.2%;
+margin-left: 6.1%;
 
 width: 37%;
 height: 200px;
