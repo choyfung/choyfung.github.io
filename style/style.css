@@ -144,9 +144,9 @@ text-align: center;
 }
 
 
-.container {
+.gallery_container {
     position: relative;
-    width: 60%;
+    width: 30%;
 }
 
 .image {
@@ -169,11 +169,11 @@ text-align: center;
   /*-ms-transform: translate(-10%, -10%)*/
 }
 
-.container:hover .image {
+.gallery_container:hover .image {
   opacity: 0.8;
 }
 
-.container:hover .middle {
+.gallery_container:hover .middle {
   opacity: 0.3;
 }
 
